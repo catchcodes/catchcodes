@@ -1,10 +1,10 @@
-#### 个人统计
+#### 💖个人统计👨‍💻
 
 <div align='center'><img src="https://github-readme-stats.vercel.app/api?username=catchcodes&hide=contribs,prs&count_private=true&show_icons=true&theme=calm"></div>
 
 </br>
 
-#### 一些项目
+#### 🚀一些项目🏄‍♂️
 
 <figure class="half">  
   &emsp;&emsp;&emsp;
@@ -18,7 +18,7 @@
   &emsp;  
 </figure>
 
-#### 我的语言
+#### 💪我的语言🪐
 
 <div align=center>
   <a href="https://github.com/catchcodes/github-readme-stats">
