@@ -1,3 +1,12 @@
+```
+ _______                     __________ 
+/  .__. \ ____   ____ ___.__.\______   \
+|  |  | |/  _ \ /  _ \  ||  | |    |  _/
+|  |__|  ( <_> )  <_> )___  | |    |   \
+ \______/\____/ \____// ____| |______  /
+                      \/             \/ 
+```
+
 #### 💖个人统计👨‍💻
 
 <div align='center'><img src="https://github-readme-stats.vercel.app/api?username=catchcodes&hide=contribs,prs&count_private=true&show_icons=true&theme=calm"></div>
