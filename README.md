@@ -17,7 +17,7 @@
   <a href="https://github.com/catchcodes/DIP_GUI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=catchcodes&repo=DIP_GUI">
   </a>  
-  <a href=https://github.com/catchcodes/catchcodes.github.io>
+  <a href="https://github.com/catchcodes/catchcodes.github.io">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=catchcodes&repo=catchcodes.github.io">
   </a> 
 </figure>
