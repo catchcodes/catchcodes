@@ -1,6 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 60%" />
-</div>  
+<div align=center>
+  <a href="[https://github.com/catchcodes/github-readme-stats](https://git.io/typing-svg)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0C0C0&width=435&lines=Welcome+To+My+Github+!">
+  </a>
+</div> 
 
 
 #### 💖个人统计👨‍💻
