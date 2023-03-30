@@ -3,8 +3,6 @@
 </div>  
 
 
-<div align='center'><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
-
 #### 💖个人统计👨‍💻
 
 <div align='center'><img src="https://github-readme-stats.vercel.app/api?username=catchcodes&hide=contribs,prs&count_private=true&show_icons=true&theme=calm"></div>
