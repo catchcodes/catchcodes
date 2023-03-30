@@ -7,15 +7,12 @@
 #### 🚀一些项目🏄‍♂️
 
 <figure class="half">  
-  &emsp;&emsp;&emsp;
   <a href="https://github.com/catchcodes/DIP_GUI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=catchcodes&repo=DIP_GUI">
   </a>  
-  &emsp;&emsp;&emsp;&emsp;
   <a href=https://github.com/catchcodes/catchcodes.github.io>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=catchcodes&repo=catchcodes.github.io">
-  </a>
-  &emsp;  
+  </a> 
 </figure>
 
 </br>
