@@ -90,10 +90,14 @@
                                            \______/\____/ \____// ____| |______  /
                                                                 \/             \/ 
 ```
+
 <div align=center>
-  <a href="https://github.com/catchcodes/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=catchcodes&theme=react">
+  <img src="https://metrics.lecoq.io/catchcodes?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai">
+</div>
+
+<div align=center>
+  <a href="https://github.com/catchcodes/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=catchcodes">
   </a>
 </div>
 
-<div align=center><img src="https://metrics.lecoq.io/catchcodes?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai"></div>
