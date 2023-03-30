@@ -1,6 +1,6 @@
 <div align=center>
   <a href="[https://github.com/catchcodes/github-readme-stats](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0C0C0&width=435&lines=Welcome+To+My+Github+!">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&pause=1000&color=696969&width=500&lines=有言：备飨宴为高朋接风，斟琼浆替挚友洗尘。">
   </a>
 </div> 
 
