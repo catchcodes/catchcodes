@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 60%" />
+</div>  
+
 ```
                                            _______                     __________ 
                                           /  .__. \ ____   ____ ___.__.\______   \
