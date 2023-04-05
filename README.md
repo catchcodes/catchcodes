@@ -111,3 +111,8 @@
   </a>
 </div>
 
+### 浏览总计
+<div align=center>
+  <img src="https://count.getloli.com/get/@catchcodes?theme=rule34" />
+</div>
+
