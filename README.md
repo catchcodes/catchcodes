@@ -1,7 +1,5 @@
 <div align=center>
-  <a href="[https://github.com/catchcodes/github-readme-stats](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.demolab.com/demo/?font=Noto+Serif+Simplified+Chinese&pause=1000&color=696969&width=500&lines=有言：备飨宴为高朋接风，斟琼浆替挚友洗尘。">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&weight=500&pause=1000&color=696969&width=435&lines=%E6%9C%89%E8%A8%80%EF%BC%9A%E5%A4%87%E9%A3%A8%E5%AE%B4%E4%B8%BA%E9%AB%98%E6%9C%8B%E6%8E%A5%E9%A3%8E%EF%BC%8C%E6%96%9F%E7%90%BC%E6%B5%86%E6%9B%BF%E6%8C%9A%E5%8F%8B%E6%B4%97%E5%B0%98%E3%80%82" alt="Typing SVG" /></a>
 </div> 
 
 
