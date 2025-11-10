@@ -12,8 +12,8 @@
 #### 🚀一些项目🏄‍♂️
 
 <figure class="half">  
-  <a href="https://github.com/catchcodes/DIP_GUI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=catchcodes&repo=DIP_GUI">
+  <a href="https://github.com/hustvl/LENS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hustvl&repo=LENS">
   </a>  
   <a href="https://github.com/catchcodes/catchcodes.github.io">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=catchcodes&repo=catchcodes.github.io">
